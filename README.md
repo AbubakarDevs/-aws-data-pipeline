@@ -31,5 +31,5 @@ AWS S3 · AWS Glue · PySpark · Athena · Step Functions · IAM · CloudWatch
 ### 📈 Key Learnings
 - Building cost-efficient ETL pipelines on AWS
 - Handling schema evolution using Glue Catalog
-- Implementing data quality checks and logs
+- Implementing data quality checks & logs
 
