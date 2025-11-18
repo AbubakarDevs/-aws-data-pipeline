@@ -33,4 +33,3 @@ AWS S3 · AWS Glue · PySpark · Athena · Step Functions · IAM · CloudWatch
 - Handling schema evolution using Glue Catalog
 - Implementing data quality checks and logs
 
----
