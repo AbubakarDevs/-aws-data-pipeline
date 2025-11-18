@@ -34,7 +34,3 @@ AWS S3 · AWS Glue · PySpark · Athena · Step Functions · IAM · CloudWatch
 - Implementing data quality checks and logs
 
 ---
-
-### 📦 How to Run
-```bash
-python scripts/etl_job.py
